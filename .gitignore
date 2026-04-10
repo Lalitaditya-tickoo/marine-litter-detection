@@ -1,0 +1,13 @@
+# Model weights 
+*.pth 
+*.pt 
+# Large files 
+marine_results/ 
+# Python 
+__pycache__/ 
+*.pyc 
+dataset/ 
+predictions/ 
+output/ 
+Mask2Former/ 
+marine_results.zip 
