@@ -29,7 +29,7 @@ Marine pollution is one of the most critical environmental challenges of our tim
 ---
 
 ## 🗂️ Dataset
-
+-**Raw sea litter images collected from diverse sources, including SEACLEAR and TRASHCAN.**
 - **~8,000 annotated underwater images**
 - **Annotation format:** COCO segmentation (polygon masks)
 - **Image resolution:** 640 × 640
