@@ -224,7 +224,8 @@ This system can be used for:
 - 📡 Marine pollution monitoring systems
 - 🌊 Automated ocean cleanup analysis
 - 🏛️ Environmental protection agencies
-
+- 🐠 Marine biodiversity and ecosystem monitoring
+- 🚢 Port and harbor underwater inspection systems
 ---
 
 ## 📄 License
